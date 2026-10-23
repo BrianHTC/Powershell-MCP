@@ -4,7 +4,7 @@ A bounded PowerShell fallback module for [PoshMcp](https://github.com/usepowersh
 
 ## Install
 
-Install PoshMcp first. Check the prerequisites. 
+Install PoshMcp first. Check the prerequisites. Remember to set API key. 
 
 Copy the `InvokePowerShell.psm1` file in a `InvokePowerShell` folder and copy it to a PowerShell 7 module directory:
 
