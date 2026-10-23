@@ -1,0 +1,10 @@
+appsettings.json
+.env
+*.user
+*.suo
+*.pfx
+*.key
+cert.pem
+cloudflared/*.json
+bin/
+obj/
