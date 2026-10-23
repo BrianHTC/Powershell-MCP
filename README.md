@@ -1,6 +1,6 @@
 # Powershell-Mcp
 
-A bounded PowerShell fallback module for PoshMcp. It runs a supplied script in a separate, noninteractive PowerShell 7 process and returns structured execution results.
+A bounded PowerShell fallback module for [PoshMcp](https://github.com/usepowershell/PoshMcp). Supports more Powershell commands. 
 
 ## Install
 
