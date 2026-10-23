@@ -4,7 +4,7 @@ A bounded PowerShell fallback module for [PoshMcp](https://github.com/usepowersh
 
 ## Install
 
-Copy the `InvokePowerShell.mps1` file in a `InvokePowerShell` folder and copy it to a PowerShell 7 module directory:
+Copy the `InvokePowerShell.psm1` file in a `InvokePowerShell` folder and copy it to a PowerShell 7 module directory:
 
 ```powershell
 $moduleRoot = Join-Path ([Environment]::GetFolderPath('MyDocuments')) 'PowerShell\Modules'
